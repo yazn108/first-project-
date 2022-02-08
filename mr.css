@@ -1,0 +1,516 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mirza&display=swap');
+
+
+body{
+
+-webkit-touch-callout:none;
+-webkit-user-select:none;
+-khtml-user-select:none;
+-ms-user-select:none;
+-moz-user-select:none;
+
+
+
+} 
+
+
+
+*{text-align: right;
+direction:rtl ;
+
+
+}
+
+a{
+				text-decoration: none;
+}
+
+	#span-3{
+					
+					color: #f1f1f1;
+							position: absolute;
+				top: 10%;
+				left: %;
+				right: 35%;
+				font-family: 'Mirza', cursive;		
+				font-size: 20px;
+				
+  
+	}
+	
+ 
+.div{
+				background-color:gray ;
+				
+				border: 0px solid #2E9596;
+  border-radius: 25px;
+
+  
+}
+				
+				
+.div1{
+             margin: 10px;
+                padding: 10px;
+                border-left: 5px solid
+ cadetblue;
+ 
+   border: 2px solid #2E9596;
+  border-radius: 25px;
+                background: #f1f1f1;
+                box-shadow: 5px 5px 5px gray;
+       
+            }
+
+.h2{
+				text-align: center;
+}
+.h4{
+				padding-right: 50px;
+				color: green;
+}
+
+.h4-1{ text-align: center;
+
+}
+.cap{
+color:black ;
+				position: absolute;
+				top: 89%;
+				left: %;
+				right: 13%;
+				font-family: 'Amiri', serif;
+							
+}
+
+
+.div-3{
+background-color: black;
+width: 200px;
+height: 200px;
+				position: absolute;
+				top: 7%;
+				left: 70%;
+				text-align: center;
+				
+				padding: px;
+				border: 2px solid black;
+  border-radius: 25px;
+			}
+			.span{
+							color: #00ff96;
+							position: absolute;
+				top: 40%;
+				left: %;
+				right: 12%;
+							
+			}
+			
+			
+			
+.cap-1{
+color: black;
+
+
+				position: absolute;
+				top: 89%;
+				left: 13%;
+				right: %;
+			
+				font-family: 'Amiri', serif;
+							
+}
+
+
+.div-4{
+background-color: black;
+width: 200px;
+height: 200px;
+				position: absolute;
+				top: 7%;
+				right:70%;
+				text-align: center;
+				
+				padding: px;
+				border: 2px solid  black;
+  border-radius: 25px;
+			}
+			.span-1{
+							color: #00ff96;
+							position: absolute;
+				top: 39%;
+				left: 5%;
+				right: 12%;
+				font-family: 'Mirza', cursive;			
+			}
+			
+		
+.con{
+				background-color:#f1f1f1;
+				width: 90%;
+				height: 250px;
+				border:  green 2px solid;
+				border-radius: 25px;
+				position: absolute;
+				top: %;
+				left: %;
+				right: 4%;
+}
+
+
+
+.button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+				top: %;
+				left: %;
+				right: 38%;
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+
+				
+				.mg-1{
+								border:  none 2px solid;
+				border-radius: 30px;
+				
+				box-shadow: 5px 5px 5px gray;
+				}
+				
+		li{
+						font-size: 30px;
+						align: center;
+		}
+		
+.h23{
+				text-align: center;
+}
+
+/*lower-alpha*/
+
+.ul{
+				list-style-type: upper-alpha ;
+}
+
+.li-1{
+				list-style-image:url('https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-thermometer-weather-vitaliy-gorbachev-blue-vitaly-gorbachev.png') ;
+				
+}
+
+.li-2{
+				list-style-image:url('https://img.icons8.com/material-outlined/48/000000/light-automation.png') ;
+				
+				
+				
+}
+
+.li-3{
+				list-style-image:url('https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-touch-screen-smartphone-application-xnimrodx-lineal-gradient-xnimrodx.png') ;
+}
+
+.li-4{
+				list-style-image:url('https://img.icons8.com/ios-filled/50/000000/online--v1.png') ;
+}
+
+mark{
+				background-color: #00ff96;
+}
+
+.li-5{
+				list-style-image:url('https://img.icons8.com/ios/50/000000/smoke-detector.png') ;
+}
+
+.li-6{
+				list-style-image:url('https://img.icons8.com/color/50/000000/touchpad.png') ;
+}
+
+.li-7{
+				list-style-image:url('https://img.icons8.com/ios-filled/50/000000/infrared-beam-sending.png') ;
+}
+
+
+.li-1,.li-2,.li-3,.li-4,.li-5,.li-6,.li-7{
+
+				font-family: 'Amiri', serif;
+}
+
+
+footer{
+				text-align: center;
+}
+
+
+/* --------------------------------------- */
+
+
+
+
+@media screen and (max-width:400px) { 
+				
+				
+				
+				
+	
+				
+				
+				
+				
+				@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mirza&display=swap');
+
+*{text-align: right;
+direction:rtl ;}
+body {
+	
+  }
+.div{
+				background-color:gray ;
+				
+				border: 0px solid #2E9596;
+  border-radius: 25px;
+
+  
+}
+				
+				
+.div1{
+             margin: 10px;
+                padding: 10px;
+                border-left: 5px solid
+ cadetblue;
+ 
+   border: 2px solid #2E9596;
+  border-radius: 25px;
+                background: #f1f1f1;
+                box-shadow: 5px 5px 5px gray;
+       
+            }
+
+.h2{
+				text-align: center;
+}
+.h4{
+				padding-right: 50px;
+				color: green;
+}
+
+.h4-1{ text-align: center;
+
+}
+.cap{
+color:black ;
+				position: absolute;
+				top: 89%;
+				left: %;
+				right: 8%;
+				font-family: 'Amiri', serif;
+							
+}
+
+
+.div-3{
+background-color: black;
+width: 120px;
+height: 120px;
+				position: absolute;
+				top: 26%;
+		  right: 4%;
+				
+				
+				
+				text-align: center;
+				
+				padding: px;
+				border: 2px solid  black;
+  border-radius: 25px;
+			}
+			
+			.span{
+							color: #00ff96;
+							position: absolute;
+				top: 20%;
+				left: %;
+				right: 12%;
+							font-family: 'Mirza', cursive;			
+			}
+			
+			#span-3{
+							color: black;
+							position: absolute;
+				top: 10%;
+				left: %;
+				right: 35%;
+				font-family: 'Mirza', cursive;		
+				font-size: 20px;
+			}
+			
+.cap-1{
+color: black;
+
+
+				position: absolute;
+				top: 89%;
+				left: 8%;
+				right: %;
+			
+				font-family: 'Amiri', serif;
+							
+}
+
+
+.div-4{
+background-color: black;
+width: 120px;
+height: 120px;
+				position: absolute;
+				top: 26%;
+				
+			right: 57%;
+				
+				text-align: center;
+				
+				padding: px;
+				border: 2px solid  black;
+  border-radius: 25px;
+			}
+			.span-1{
+							color: #00ff96;
+							position: absolute;
+				top: 20%;
+				left: 5%;
+				right: 12%;
+				font-family: 'Mirza', cursive;			
+			}
+		
+
+.con{
+				background-color:#f1f1f1;
+				width: 90%;
+				height: 250px;
+				border:  green 2px solid;
+				border-radius: 25px;
+				position: absolute;
+				top: %;
+				left: %;
+				right: 4%;
+}
+
+
+
+.button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 40px 2px;
+    cursor: pointer;
+    position: absolute;
+				top: %;
+				left: %;
+				right: 20%;
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+
+				
+				.mg-1{
+								border:  none 2px solid;
+				border-radius: 30px;
+				
+				box-shadow: 5px 5px 5px gray;
+				}
+				
+		li{
+						font-size: 15px;
+						align: center;
+		}
+		
+.h23{
+				text-align: center;
+}
+
+/*lower-alpha*/
+
+.ul{
+				list-style-type: upper-alpha ;
+}
+
+
+
+.li-1{
+				
+		
+
+			list-style-image:url('https://api.iconify.design/healthicons/cold-chain.svg?color=black&width=30&height=30') ;
+			
+					
+}
+
+.li-2{
+				list-style-image:url('https://api.iconify.design/octicon/light-bulb-16.svg?width=27&height=27&flip=horizontal') ;
+				
+}
+
+.li-3{
+				list-style-image:url('https://api.iconify.design/teenyicons/caret-vertical-circle-solid.svg?color=black&width=30&height=30') ;
+}
+
+.li-4{
+			
+			list-style-image:url('https://api.iconify.design/mdi/access-point.svg?width=27&height=27&flip=horizontal%2Cvertical') ;
+			 
+			
+
+			}
+				
+
+mark{
+				background-color: #00ff96;
+}
+
+.li-5{
+				list-style-image:url('https://api.iconify.design/openmoji/structural-fire.svg?width=30&height=30') ;
+}
+
+.li-6{
+				list-style-image:url('https://api.iconify.design/carbon/touch-1-filled.svg?color=black&width=30&height=30') ;
+}
+
+.li-7{
+				list-style-image:url('https://api.iconify.design/mdi/motion-sensor.svg?color=black&width=27&height=27&flip=horizontal') ;
+}
+
+
+.li-1,.li-2,.li-3,.li-4,.li-5,.li-6,.li-7{
+
+				font-family: 'Amiri', serif;
+}
+
+
+footer{
+				text-align: center;
+}
+				
+				
+	
+}
